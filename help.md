@@ -1,0 +1,22 @@
+---
+layout: page
+author: Andrea Lommen
+title: Help! 
+permalink: /help/
+---
+
+Andrea's Office Hours
+
+Regular office hours: 
+
+* Monday 2:15-4pm every other week starting January 27
+(so Jan 27, Feb 10, Feb 24, Mar 9, Mar 23, Apr 7, Apr 21)
+* Tuesday 1-5pm every other week starting February 4
+(so Feb 4, Feb 18, Mar 3, Mar 17, Mar 31, Apr 14, Apr 28)
+
+
+Extra Office hours (around 104 lab due dates):
+* Tuesday, Feb 4: 4-8pm, KINSC H205
+* Wednesday, Feb 5: 5-8pm, KINSC H205
+
+TA Office Hours:
