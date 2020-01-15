@@ -8,7 +8,7 @@ permalink: /help/
 Do you suffer from FOMOOOWMP (Fear of Meeting one-on-one with my professor)?
 Watch this [video.](https://www.youtube.com/watch?v=yQq1-_ujXrM)
 
-Andrea's Office Hours
+# Andrea's Office Hours
 
 Regular office hours: 
 
@@ -22,4 +22,4 @@ Extra Office hours (around 104 lab due dates):
 * Tuesday, Feb 4: 4-8pm, KINSC H205
 * Wednesday, Feb 5: 5-8pm, KINSC H205
 
-TA Office Hours:
+# TA Office Hours:
