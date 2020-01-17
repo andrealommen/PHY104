@@ -19,7 +19,7 @@ Regular office hours:
 
 
 Extra Office hours (around 104 lab due dates):
-* Tuesday, Feb 4: 4-8pm, KINSC H205
+* Tuesday, Feb 4: 4-6:30pm, KINSC H205
 * Wednesday, Feb 5: 5-8pm, KINSC H205
 
 # TA Office Hours:
