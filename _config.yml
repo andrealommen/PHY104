@@ -31,7 +31,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header:
+header_pages:
   - promises.md
   - fulfill.md
   - grid.md
