@@ -14,22 +14,34 @@ For each of the 5 lab assignments you will need to do the following steps:
 That probably all looks like hogwash to you at the moment, because it's early in
 the semester.  Here are more explicit instructions.
 
+(These instructions don't work yet for submitting your work, but they will get you the first lab, so you can start working on it!)
+
 Go to [https://github.com/INTRO104] and click on the lab you want to start, e.g. lab1. 
 
 Click "clone or download", a green button over on the right. You'll see a box with a URL in it, e.g. https://github.com/INTRO104/lab1.git. Copy that.
 
 * On the home screen of your Jupyter hub account you have an option on the top right for "new" -> "terminal." That will open up a terminal window on the hub.
-* Make a new directory for this assignment using "cd" ie.
-> mkdir lab1
-* change into that directory (cd = change directory)
-> cd lab1
 * clone the repository
 > git \<paste the name of the repository that you found by going to the link
 at the top of this document\>, e.g. git https://github.com/INTRO104/lab1.git
-* Go back to the home screen of your Jupyter hub, and you should be able to click
-on the directory you just created.  Then open up the file you downloaded, i.e. click
+* Go back to the home screen of your Jupyter hub, and you should see a new
+directory with the same name as the repository (i.e. "lab1"). Click on that directory
+and then open up the file you downloaded, i.e. click
 on lab1.ipynb.
 * Do the lab and save your work. IMPORTANT: please save it as \<firstnamelastname\>_lab\<labnumber\>, e.g. janesmith_lab1
+
+Open up a terminal window again (at the Jupyter home screen "new"-> "terminal")
+
+Two things you have to do only once:
+* Tell git your email address:
+> git config --global user.email "Put your email address here"
+for example
+> git config --global user.email "jana.smith@haverford.edu"
+* Tell git your name
+> git config --global user.name "Put your name here"
+for example..
+> git config --global user.name "Jana Smith"
+
 * Open up a terminal window again, navigate to the directory, and type "git add <filename>" e.g. git add tedsmith_lab1.ipynb.
 * > git commit -m "I am turning in my lab."
 * > git push
