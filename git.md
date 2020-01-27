@@ -7,7 +7,7 @@ permalink: /git/
 
 (These instructions don't work yet for submitting your work, but they will get you the first lab, so you can start working on it!)
 
-Go to [https://github.com/INTRO104] and click on the lab you want to start, e.g. lab1. (I don't think you have to have a git account - I tested that.) 
+Go to [https://github.com/INTRO104](https://github.com/INTRO104) and click on the lab you want to start, e.g. lab1. (I don't think you have to have a git account - I tested that.) 
 
 Click "clone or download", a green button over on the right. You'll see a box with a URL in it, e.g. https://github.com/INTRO104/lab1.git. Copy that.
 
