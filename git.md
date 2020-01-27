@@ -13,7 +13,7 @@ Click "clone or download", a green button over on the right. You'll see a box wi
 
 Right click on that URL and then choose "copy" from the pop-up list.
 
-* On the home screen of your Jupyter hub account you have an option on the top right for "new" -> "terminal." That will open up a terminal window on the hub.
+* On the home screen of your Jupyter hub account you have an option on the top right for "new" -> "terminal." That will open up a terminal window on the hub. Type the following and then press "return".
 
 > git clone \<paste the name of the repository that you found by going to the link
 at the top of this document\>, 
