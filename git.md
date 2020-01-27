@@ -15,8 +15,12 @@ Right click on that URL and then choose "copy" from the pop-up list.
 
 * On the home screen of your Jupyter hub account you have an option on the top right for "new" -> "terminal." That will open up a terminal window on the hub.
 
-> git \<paste the name of the repository that you found by going to the link
-at the top of this document\>, e.g. git https://github.com/INTRO104/lab1.git
+> git clone \<paste the name of the repository that you found by going to the link
+at the top of this document\>, 
+
+e.g. 
+
+> git clone https://github.com/INTRO104/lab1.git
 
 To paste you can either right click and choose paste or type ctrl-v. Let me know if you need help.  These instructions work in H204, but they may not work at home.
 
