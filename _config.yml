@@ -22,7 +22,7 @@ title: "PHY/AST/CS 104: Intro to Programming in Physics and Astronomy"
 email: alommen at haverford dot edu
 description: This page is hosted by github and created using Jekyll. To get back to my Haverford page click <a href="https://www.haverford.edu/users/alommen"> here </a>.
 
-baseurl: "PHY104" # the subpath of your site, e.g. /blog
+baseurl: "/PHY104" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  andrealommen
 
@@ -36,6 +36,7 @@ header_pages:
   - fulfill.md
   - grid.md
   - git.md
+  - classnotes.md
   - slides.md
   - help.md
   - diversity.md
