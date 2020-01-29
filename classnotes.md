@@ -12,3 +12,6 @@ After class I'll put another copy that's filled in with whatever we did in class
 To upload them into your Jupyter account:
 * Download the file you want onto your computer using the link above.
 * On the [Jupyter home screen](https://notebook.kinsc.haverford.edu:8000/hub/home) over on the right click "Upload" and choose the file you just downloaded onto your computer.
+
+
+I don't anticipate using slides often, but if I do I'll put them in this [Google folder.](https://drive.google.com/drive/folders/1kO5yrrRfV2F_5RYDTpYBTOIKAQNyKM9S?usp=sharing)
