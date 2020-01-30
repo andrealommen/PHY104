@@ -8,6 +8,8 @@ permalink: /help/
 Do you suffer from FOMOOOWMP (Fear of Meeting one-on-one with my professor)?
 Watch this [video.](https://www.youtube.com/watch?v=yQq1-_ujXrM) 
 
+The TAs and Dave and I are adding our student hours to this [google doc. So please click here to see the latest student hour updates!](https://docs.google.com/document/d/1XD_No0nUvi5e2BsBCwCWTfb_-dSAa29GAsaX0ij4xOM/edit?usp=sharing)
+
 # Andrea's Office Hours
 
 Regular office hours: 
