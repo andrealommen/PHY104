@@ -10,7 +10,8 @@ permalink: /git/
 The new classroom repository:
 [https://classroom.github.com/a/lGS1MyW6](https://classroom.github.com/a/lGS1MyW6)
 
-Click on that link and it will ask you to create an account.  The "free" option is just fine for you.
+Click on that link and it will ask you to create an account. You do indeed need a git account
+to turn in your lab. The "free" option is just fine for you.
 
 When it asks you to create a repository name you can call that
 anything you want.  I'd probably call it "104". Choose "Private." You can skip the "initialize repository" step. You actually won't use
