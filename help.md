@@ -8,7 +8,9 @@ permalink: /help/
 Do you suffer from FOMOOOWMP (Fear of Meeting one-on-one with my professor)?
 Watch this [video.](https://www.youtube.com/watch?v=yQq1-_ujXrM) 
 
-The TAs and Dave and I are adding our student hours to this [google doc. So please click here to see the latest student hour updates!](https://docs.google.com/document/d/1XD_No0nUvi5e2BsBCwCWTfb_-dSAa29GAsaX0ij4xOM/edit?usp=sharing)
+The TAs and I are adding our student hours to this [google doc. So please click here to see the latest student hour updates!](https://docs.google.com/document/d/1XD_No0nUvi5e2BsBCwCWTfb_-dSAa29GAsaX0ij4xOM/edit?usp=sharing)
+
+Dave's student hours (consultation hours) are on [this calendar](https://calendar.google.com/calendar/embed?src=haverford.edu_24r8mnm3jou3mseeg0vaqv1ees%40group.calendar.google.com&ctz=America%2FNew_York)
 
 # Andrea's Office Hours
 
