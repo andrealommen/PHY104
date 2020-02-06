@@ -13,9 +13,10 @@ The first lab:
 The second lab:
 [https://classroom.github.com/a/JXiGcBbM](https://classroom.github.com/a/JXiGcBbM)
 
---------------------------------------------
+------------------------------------------------------------------------------
 I think now that you've done the stuff below once already, you can skip down to clicking the link above and "accepting" my assignment.
---------------------------------------------
+
+------------------------------------------------------------------------------
 
 Click on that link and it will ask you to create an account. You do indeed need a git account
 to turn in your lab. The "free" option is just fine for you.
@@ -27,9 +28,10 @@ classroom repository. (You may be able to skip this step as long as you've creat
 account.)
 
 Clink on the link above one more time, and now that you have a github account it should tell you that github classroom wants access to your account, which you should grant.
------------------------------------------
+
+-----------------------------------------------------------
 Skip to here if you already have done this once.
-----------------------------------
+-----------------------------------------------------------
 
 Then you'll have the opportunity to "accept" my assignment. Please accept it.
 
