@@ -5,8 +5,6 @@ title: The Git Repository
 permalink: /git/
 ---
 
------These are the new instructions for using git classroom----
-
 The first lab:
 [https://classroom.github.com/a/lGS1MyW6](https://classroom.github.com/a/lGS1MyW6)
 
@@ -14,7 +12,7 @@ The second lab:
 [https://classroom.github.com/a/JXiGcBbM](https://classroom.github.com/a/JXiGcBbM)
 
 ------------------------------------------------------------------------------
-I think now that you've done the stuff below once already, you can skip down to clicking the link above and "accepting" my assignment.
+I think now that you've done the stuff below once already, you can clik the link above and skip down to "accepting" my assignment.
 
 ------------------------------------------------------------------------------
 
@@ -30,10 +28,11 @@ account.)
 Clink on the link above one more time, and now that you have a github account it should tell you that github classroom wants access to your account, which you should grant.
 
 -----------------------------------------------------------
-Skip to here if you already have done this once.
+**Skip to here if you already have done this once. **
+
 -----------------------------------------------------------
 
-Then you'll have the opportunity to "accept" my assignment. Please accept it.
+After clicking one of the links above you'll have the opportunity to "accept" my assignment. Please accept it.
 
 Click "clone or download", a green button over on the right. You'll see a box with a URL in it, e.g. https://github.com/INTRO104/lab1.git. Copy that.
 
