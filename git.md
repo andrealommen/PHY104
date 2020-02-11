@@ -9,7 +9,9 @@ The first lab:
 [https://classroom.github.com/a/lGS1MyW6](https://classroom.github.com/a/lGS1MyW6)
 
 The second lab:
-[https://classroom.github.com/a/JXiGcBbM](https://classroom.github.com/a/JXiGcBbM)
+[https://classroom.github.com/a/lOVABn5T](https://classroom.github.com/a/lOVABn5T)
+
+Note that the second lab has a funny name: Lab2-2ndTry because the first one I created was causing problems in downloading.
 
 ------------------------------------------------------------------------------
 I think now that you've done the stuff below once already, you can clik the link above and skip down to "accepting" my assignment.
