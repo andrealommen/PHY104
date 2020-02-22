@@ -14,10 +14,10 @@ Dave's student hours (consultation hours) are on [this calendar](https://calenda
 
 # Andrea's Student Hours
 
-*Weekly*:
-Tuesday: 1:05-1:35
-Wednesday: 3:15-3:45
-Friday: 1:15-1:45
+*Weekly*: <br>
+Tuesday: 1:05-1:35 <br>
+Wednesday: 3:15-3:45 <br>
+Friday: 1:15-1:45 <br>
 
 *Every other week*:
 * Monday 2:15-4pm every other week starting January 27 (L108)
