@@ -12,10 +12,14 @@ The TAs and I are adding our student hours to this [google doc. So please click 
 
 Dave's student hours (consultation hours) are on [this calendar](https://calendar.google.com/calendar/embed?src=haverford.edu_24r8mnm3jou3mseeg0vaqv1ees%40group.calendar.google.com&ctz=America%2FNew_York)
 
-# Andrea's Office Hours
+# Andrea's Student Hours
 
-Regular office hours: 
+*Weekly*:
+Tuesday: 1:05-1:35
+Wednesday: 3:15-3:45
+Friday: 1:15-1:45
 
+*Every other week*:
 * Monday 2:15-4pm every other week starting January 27 (L108)
 Remaining Mondays: Feb 24, Mar 9, Mar 23, Apr 7, Apr 21)
 * Tuesday 4-6:30pm (roughly, but check below and/or google calendar for details) every other week starting February 4 (H204)
@@ -33,5 +37,3 @@ Extra Office hours: (all in H204))
 * Tuesday, April 14: 4-7pm
 * Tuesday, April 28: 4-7pm
 
-Extra Classes:
-* Sunday, March 22: 4-6pm (recitation for 309)
