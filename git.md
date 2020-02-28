@@ -11,6 +11,9 @@ The first lab:
 The second lab:
 [https://classroom.github.com/a/lOVABn5T](https://classroom.github.com/a/lOVABn5T)
 
+The third lab:
+[https://classroom.github.com/a/-nRrjo07](https://classroom.github.com/a/-nRrjo07)
+
 Note that the second lab has a funny name: Lab2-2ndTry because the first one I created was causing problems in downloading.
 
 ------------------------------------------------------------------------------
