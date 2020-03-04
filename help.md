@@ -31,9 +31,9 @@ Extra Office hours: (all in H204))
 * Monday, Feb 24: 5:30-8pm
 * Tuesday, Mar 3: 4-4:45pm, 7-8:30pm
 * Thursday, March 19: 6-9pm
-* Monday, March 23: 5:30-8pm
-* Tuesday, March 31: 6-8pm
-* Thursday, April 2: 6-8pm
+* Monday, March 23: 5:30-7pm
+* Tuesday, March 31: 6-7pm
+* Thursday, April 2: 6-7pm
 * Tuesday, April 14: 4-7pm
 * Tuesday, April 28: 4-7pm
 
