@@ -36,6 +36,7 @@ header_pages:
   - fulfill.md
   - grid.md
   - git.md
+  - project.md
   - classnotes.md
   - Jupyter.md
   - help.md
