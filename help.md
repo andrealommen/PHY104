@@ -8,21 +8,16 @@ permalink: /help/
 Do you suffer from FOMOOOWMP (Fear of Meeting one-on-one with my professor)?
 Watch this [video.](https://www.youtube.com/watch?v=yQq1-_ujXrM) 
 
-The TAs and I are adding our student hours to this [google doc. So please click here to see the latest student hour updates!](https://docs.google.com/document/d/1XD_No0nUvi5e2BsBCwCWTfb_-dSAa29GAsaX0ij4xOM/edit?usp=sharing)
+# Student hours
+[**Luis Contreras-Orendain** sign-up sheet](https://docs.google.com/spreadsheets/d/1V0VmWPCGWXduQzjZPCVvN2qUcr5t8h9OIQAMK-04yJg/edit?usp=sharing)
+
+[**Jacob Zimmerman** sign-up sheet](https://docs.google.com/spreadsheets/d/1mPXQ_t9eQwh61F46NEkjt8IBBQxwWQxjC2TvFM9Wk5E/edit?usp=sharing)
+
+[**Menna Khaliel** sign-up sheet](https://docs.google.com/spreadsheets/d/1mBMR4dWJqe9qw0g5qwIpSuGE34C5Y5TMLBc4qU2ISrI/edit?usp=sharing)
 
 Dave's student hours (consultation hours) are on [this calendar](https://calendar.google.com/calendar/embed?src=haverford.edu_24r8mnm3jou3mseeg0vaqv1ees%40group.calendar.google.com&ctz=America%2FNew_York)
 
-# Andrea's Student Hours
+[**Andrea Lommen** sign-up sheet](https://docs.google.com/spreadsheets/d/11NkRQKDWe5PlDomIsYJOF1xRePjfFSLzOZt05-kX7ak/edit?usp=sharing)
 
-As of 18 March 2020 I'm keeping a signup sheet [here.]
-(https://docs.google.com/spreadsheets/d/11NkRQKDWe5PlDomIsYJOF1xRePjfFSLzOZt05-kX7ak/edit?usp=sharing)
-
-
-These times aren't really relevant anymore but I'm keeping them here in case
-we get a chance to return to them.....<br>
-*Weekly*: <br>
-Tuesday: 1:05-1:35 <br>
-Wednesday: 3:15-3:45 <br>
-Friday: 1:15-1:45 <br>
 
 
