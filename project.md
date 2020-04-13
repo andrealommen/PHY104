@@ -16,6 +16,27 @@ Your project proposal will just be a paragraph (a few sentences) saying:
 (presented the last week of class, rough draft of poster due two
 weeks beforehand - see grid):
 
+**The POSTER is not really a poster anymore**
+Poster -> 3 slides of a power point presentation.
+* Slide 1: Introduction to your data set (where you got it, why you're interested in it, what question you hope to answer, why you think other people would be interested in this question.)
+* Slide 2: An interesting challenge your data presented. You might show a little (a very little!) bit of code here, but the main point is to describe the challenge, and the overview of how you solved it.
+* Slide 3: Conclusion and graph or graphs.
+
+Not a lot of words on slides, please. 
+
+You could probably make a draft of slides 1 and 2 from what you've done already, in about 25 minutes.
+
+The point of this is to give Dave, me and TAs a starting point for conversations about your project, so that we can help you as much as we can.
+
+For your draft due on Friday, you could make a draft of a final plot, or you could describe what you think the plot will look like, or even sketch it on a piece of paper, and put a photograph of it into your slide.
+
+These will be submitted via Box on Friday.
+
+If you need more time let me know, but better than that, turn in what you have on Friday.
+
+If you have multiple graphs, the conclusion "slide" could be multiple slides.  But remember that this isn't a PhD thesis, so you really don't need more than 1 or maybe 2 figures.
+
+
 **Your project must include**:
 *	Background about why this question is important.
 *	A physical conclusion drawn from data or simulations.  In other words, it has to answer a question and you have decide what question that is.
@@ -40,8 +61,10 @@ weeks beforehand - see grid):
 This is the 5th lab so it's part of your lab grade. 
 It’s graded on the 9 required elements above (3 points for each), plus I add one criteria that’s just basic awesomeness (did you get into it?) and creativity (did you use your skills to make it cool?) (combined for 3 more points) for a total of 30 points.
 
-### Poster presentations
-*	The main product of the project is the poster that you’ll show to the rest of the class during the last week of classes.  You’ll have to figure out how to show the awesomeness of your project in only one 11x17 page.
+### 3-slide powerpoint presentations
+*	The main product of the project is the 3-slide powerpoint that you’ll show to the 
+rest of the class during the last week of classes.   You'll also turn in the notebook
+that shows you completed the items above.
 
 ### Some examples of projects:
 *	Show that a particular correlation does or does not exist in the 1940 census data: https://www.archives.gov/research/census/1940 (later census data is not available yet by the 72-year rule.)
