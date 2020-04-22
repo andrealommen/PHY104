@@ -84,16 +84,16 @@ You have an assignment to do while your classmates are presenting:
 At the end of the week you'll submit three things via haverford.box:
 * your responses to the template above to a pdf file 
 * your presentation slides (in pptx or pdf)
-* your Jupyter notebook (save as an ipynb file)
+* your Jupyter notebook (file -> download as -> an ipynb file)
 
 The Jupyter notebook should contain the following labels so that Dave and I can
 easily see you've satisfied the criteria of the project
-	* Test suite
-	* Element1
-	* Element2
-	* Element3
-	* Element4
-	* Element5
+* Test suite
+* Element1
+* Element2
+* Element3
+* Element4
+* Element5
 
 
 
