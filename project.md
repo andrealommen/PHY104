@@ -71,8 +71,12 @@ that shows you completed the items above.
 Please sign-up for a presentation day [here:](https://docs.google.com/spreadsheets/d/1X5jyvYeOLBLCTU8l9AzsxTGIirumbHbndwGk5iKjnfA/edit?usp=sharing).
 
 During the final week of class you will do two things:
-1) present your work
-2) listen to your class mates present their work.
+1) present your work (about 5 minutes)
+2) listen to your class mates present their work and ask them questions (10 minutes of questions allotted for
+each project).
+
+(In case you're doing the math - you'll be in groups of 9 discussing each other's projects.  It'll take you
+all 3 days to hear all 9 projects.)
 
 You have an assignment to do while your classmates are presenting:
 [Template for Q and A](https://docs.google.com/document/d/13B8gXVWKjKFlbleTWplkWegASVQh81IayDm8HNuUzMk/edit?usp=sharing)
