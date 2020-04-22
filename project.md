@@ -68,6 +68,8 @@ that shows you completed the items above.
 
 ## THE FINAL WEEK
 
+Please sign-up for a presentation day [here:](https://docs.google.com/spreadsheets/d/1X5jyvYeOLBLCTU8l9AzsxTGIirumbHbndwGk5iKjnfA/edit?usp=sharing).
+
 During the final week of class you will do two things:
 1) present your work
 2) listen to your class mates present their work.
