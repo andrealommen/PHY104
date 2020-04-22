@@ -66,10 +66,30 @@ It’s graded on the 9 required elements above (3 points for each), plus I add o
 rest of the class during the last week of classes.   You'll also turn in the notebook
 that shows you completed the items above.
 
-### Some examples of projects:
-*	Show that a particular correlation does or does not exist in the 1940 census data: https://www.archives.gov/research/census/1940 (later census data is not available yet by the 72-year rule.)
-*	Show that the original COBE microwave background data fit to a perfect black body law at 2.73 degrees Kelvin. (This is a relic of the big bang.)
-*       Sorry this is sort of a lame list of examples.  The ones you've come up with so far are much better.  I'll use yours as example for next years projects!!!
+## THE FINAL WEEK
+
+During the final week of class you will do two things:
+1) present your work
+2) listen to your class mates present their work.
+
+You have an assignment to do while your classmates are presenting:
+[Template for Q and A](https://docs.google.com/document/d/13B8gXVWKjKFlbleTWplkWegASVQh81IayDm8HNuUzMk/edit?usp=sharing)
+
+At the end of the week you'll submit three things via haverford.box:
+* your responses to the template above to a pdf file 
+* your presentation slides (in pptx or pdf)
+* your Jupyter notebook (save as an ipynb file)
+
+The Jupyter notebook should contain the following labels so that Dave and I can
+easily see you've satisfied the criteria of the project
+	* Test suite
+	* Element1
+	* Element2
+	* Element3
+	* Element4
+	* Element5
+
+
 
 
 
