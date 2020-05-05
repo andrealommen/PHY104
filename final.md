@@ -19,8 +19,13 @@ most of those cases I figured out a way to ask that on the exam.
 * You will find all the answers to the quizzes and mid-term embedded in
 the ipynb notebooks.
 
+## Where to find the quizzes:
+[In our class notes folder here.](https://haverford.box.com/s/mdp4kdykmxzq7iuvwo7sfiveptaqr6qk)
+
+
 ## Where to find answers to quizzes:
-They're all in Jupyter notebooks.  I've listed the names of
+They're all in Jupyter notebooks which are also in the class
+notes folder above.  I've listed the names of
 the notebooks here:
 * Quiz1  There is no pdf of this quiz, because I hadn't invented
 that format yet.  The quiz is embedded in the ipynb called:
