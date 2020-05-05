@@ -19,6 +19,20 @@ most of those cases I figured out a way to ask that on the exam.
 * You will find all the answers to the quizzes and mid-term embedded in
 the ipynb notebooks.
 
+## Where to find answers to quizzes:
+They're all in Jupyter notebooks.  I've listed the names of
+the notebooks here:
+* Quiz1  There is no pdf of this quiz, because I hadn't invented
+that format yet.  The quiz is embedded in the ipynb called:
+"Class 05 (POST) quiz, functions"
+* Quiz2 Class 08 (POST)
+* Quiz3 Class 11 (POST)
+* Quiz4 Class 14 (POST)
+* Quiz5 Class 17 (POST)
+* Quiz6 Answers to quiz#6 
+* Quiz7 Class 35 (POST)
+* Quiz8 Class 38
+
 
 ## Exam instructions
 1. Before you begin please email me and tell me you are starting.
