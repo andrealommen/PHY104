@@ -44,3 +44,6 @@ uncommented code.
 11. Be sure to read the entire exam before answering any questions, so you have time to think about the potentially tricky problems.
 12. This examination is NOT to be shared with students who take this class in subsequent years, nor circulated in any manner. Thank you for abiding by the Honor Code of Haverford College in respecting this restriction.
 13. On the exam you will sign saying that you have abided by the Haverford Honor code.
+
+## Downloading the Exam
+When you are ready to take the exam, [please download it from here.](final.pdf)
