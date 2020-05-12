@@ -37,6 +37,7 @@ that format yet.  The quiz is embedded in the ipynb called:
 * Quiz6 Answers to quiz#6 
 * Quiz7 Class 35 (POST)
 * Quiz8 Class 38
+* Mid-Term  Mid-term Exam Solutions.ipynb
 
 
 ## Exam instructions
