@@ -40,7 +40,7 @@ If you have multiple graphs, the conclusion "slide" could be multiple slides.  B
 **Your project must include**:
 *	Background about why this question is important.
 *	A physical conclusion drawn from data or simulations.  In other words, it has to answer a question and you have decide what question that is.
-*	A test suite of at least three tests that your code passes (See Dave’s 2nd lecture, class #21.) These can be simple tests that your code is working correctly.  Your code must pass them. 
+*	A test suite of at least three tests that your code passes (See Dave’s 2nd lecture, class #21.) These can be simple tests that your code is working correctly.  Your code must pass them.  One of the tests must involve you feeding some data into your code, data in which you know what the answer should be. (This last piece has been added for 2021.)  Do science on your code! 
 *	Documentation. (Your code must be commented).
 
 **Your project must incorporate 5 of the following 10 elements:**
