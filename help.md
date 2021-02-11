@@ -9,15 +9,18 @@ Do you suffer from FOMOOOWMP (Fear of Meeting one-on-one with my professor)?
 Watch this [video.](https://www.youtube.com/watch?v=yQq1-_ujXrM) 
 
 # Student hours
-[**Luis Contreras-Orendain** sign-up sheet](https://docs.google.com/spreadsheets/d/1V0VmWPCGWXduQzjZPCVvN2qUcr5t8h9OIQAMK-04yJg/edit?usp=sharing)
 
-[**Jacob Zimmerman** sign-up sheet](https://docs.google.com/spreadsheets/d/1mPXQ_t9eQwh61F46NEkjt8IBBQxwWQxjC2TvFM9Wk5E/edit?usp=sharing)
+[**Allie Brenton** sign-up sheet]( There will be a link here...stay tuned)
 
-[**Menna Khaliel** sign-up sheet](https://docs.google.com/spreadsheets/d/1mBMR4dWJqe9qw0g5qwIpSuGE34C5Y5TMLBc4qU2ISrI/edit?usp=sharing)
+[**Anthony Walker** sign-up sheet]( There will be a link here...stay tuned)
 
-Dave's student hours (consultation hours) are on [this calendar](https://calendar.google.com/calendar/embed?src=haverford.edu_24r8mnm3jou3mseeg0vaqv1ees%40group.calendar.google.com&ctz=America%2FNew_York)
+# Lab instructor
 
-[**Andrea Lommen** sign-up sheet](https://docs.google.com/spreadsheets/d/11NkRQKDWe5PlDomIsYJOF1xRePjfFSLzOZt05-kX7ak/edit?usp=sharing)
+[**Suzanne Lindell** sign-up sheet]( There will be a link here...stay tuned)
+
+# Course instructor
+
+[**Andrea Lommen** google calendar link to sign up for a slot](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UVBPX3BNTW95cjM3fGRlZmF1bHR8MTU3NTJhNWMxMDVhY2U3NTg5ZTAzZjIyMmQ1OGZlMGU)
 
 
 
