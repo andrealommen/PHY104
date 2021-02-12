@@ -14,6 +14,10 @@ Watch this [video.](https://www.youtube.com/watch?v=yQq1-_ujXrM)
 
 [**Anthony Walker** sign-up sheet]( There will be a link here...stay tuned)
 
+[**Sharon Wang** sign-up sheet]( There will be a link here...stay tuned)
+
+[**Keeton Martin** sign-up sheet]( There will be a link here...stay tuned)
+
 # Lab instructor
 
 [**Suzanne Lindell** sign-up sheet]( There will be a link here...stay tuned)
