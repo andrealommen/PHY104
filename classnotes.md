@@ -1,7 +1,7 @@
 ---
 layout: page
 author: Andrea Lommen
-title: Class Notes 
+title: Class_Notes 
 permalink: /notes/
 ---
 
