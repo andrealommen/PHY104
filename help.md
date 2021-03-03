@@ -10,11 +10,13 @@ Watch this [video.](https://www.youtube.com/watch?v=yQq1-_ujXrM)
 
 # Student hours
 
-[**Student TA hours google calendar]https://calendar.google.com/calendar/u/0/embed?src=c_65bqtl7p2sd5u8pegi0dfnkd08@group.calendar.google.com&ctz=America/New_York)
+[**Student TA hours ** google calendar]https://calendar.google.com/calendar/u/0/embed?src=c_65bqtl7p2sd5u8pegi0dfnkd08@group.calendar.google.com&ctz=America/New_York)
 
 # Lab instructor
 
-[**Suzanne Lindell** sign-up sheet]( There will be a link here...stay tuned)
+**Suzanne Lindell** 
+9:30-10:30am ET Tuesday
+Check on Moodle for the meeting link (under the Zoom links)
 
 # Course instructor
 
