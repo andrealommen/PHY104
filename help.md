@@ -10,13 +10,7 @@ Watch this [video.](https://www.youtube.com/watch?v=yQq1-_ujXrM)
 
 # Student hours
 
-[**Allie Brenton** sign-up sheet]( There will be a link here...stay tuned)
-
-[**Anthony Walker** sign-up sheet]( There will be a link here...stay tuned)
-
-[**Sharon Wang** sign-up sheet]( There will be a link here...stay tuned)
-
-[**Keeton Martin** sign-up sheet]( There will be a link here...stay tuned)
+[**Student TA hours google calendar]https://calendar.google.com/calendar/u/0/embed?src=c_65bqtl7p2sd5u8pegi0dfnkd08@group.calendar.google.com&ctz=America/New_York)
 
 # Lab instructor
 
