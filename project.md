@@ -13,11 +13,10 @@ Your project proposal will just be a paragraph (a few sentences) saying:
 2) What question you'll be answering using them.
 
 ### The Project 
-(presented the last week of class, rough draft of poster/talk (we need to decide which) due two
+(presented the last week of class, rough draft of slides due two
 weeks beforehand - see grid):
 
-**The POSTER or TALK**
-Which one we do will depend a bit on the pandemic. 
+**The TALK**
 
 If it's a talk it'll be 3 slides long:
 * Slide 1: Introduction to your data set (where you got it, why you're interested in it, what question you hope to answer, why you think other people would be interested in this question.)
@@ -33,8 +32,8 @@ If you have multiple graphs, the conclusion "slide" could be multiple slides.  B
 
 **Your project must include**:
 *	Background about why this question is important.
-*	A physical conclusion drawn from data or simulations.  In other words, it has to answer a question and you have decide what question that is.
-*	A test suite of at least three tests that your code passes (See Dave’s 2nd lecture, class #21.) These can be simple tests that your code is working correctly.  Your code must pass them.  One of the tests must involve you feeding some data into your code, data in which you know what the answer should be. (This last piece has been added for 2021.)  Do science on your code! 
+*	A conclusion drawn from data or simulations.  In other words, it has to answer a question and you have decide what question that is.
+*	A test suite of at least three tests that your code passes.  These can be simple tests that your code is working correctly.  Your code must pass them.  One of the tests must involve you feeding some data into your code, data in which you know what the answer should be. Do science on your code! 
 *	Documentation. (Your code must be commented).
 
 **Your project must incorporate 5 of the following 10 elements:**
@@ -69,8 +68,8 @@ During the final week of class you will do two things:
 2) listen to your class mates present their work and ask them questions (10 minutes of questions allotted for
 each project).
 
-(In case you're doing the math - you'll be in groups of 9 discussing each other's projects.  It'll take you
-all 3 days to hear all 9 projects.)
+(In case you're doing the math - you'll be in groups of 9 discussing each other's projects.  It'll take both days
+hear all 9 projects.)
 
 You have an assignment to do while your classmates are presenting:
 [Template for Q and A](https://docs.google.com/document/d/13B8gXVWKjKFlbleTWplkWegASVQh81IayDm8HNuUzMk/edit?usp=sharing)
@@ -80,7 +79,7 @@ At the end of the week you'll submit three things via haverford.box:
 * your presentation slides (in pptx or pdf)
 * your Jupyter notebook (file -> download as -> an ipynb file)
 
-The Jupyter notebook should contain the following labels so that Dave and I can
+The Jupyter notebook should contain the following labels so that I can
 easily see you've satisfied the criteria of the project
 * Test suite
 * Element1
