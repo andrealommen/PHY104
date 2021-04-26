@@ -25,7 +25,8 @@ If it's a talk it'll be 3 slides long:
 
 Not a lot of words on slides, please. 
 
-For your draft due on Friday (a couple weeks before the end of the semester), you could make a draft of a final plot, or you could describe what you think the plot will look like, or even sketch it on a piece of paper, and put a photograph of it into your slide.
+For your draft due on Tuesday 4 May (a couple weeks before the end of the semester), you could make a draft of a final plot, or you could describe what you think the plot will look like, or even sketch it on a piece of paper, and put a photograph of it into your slide.
+I find that even just making a sketch of what I think the plot (or plots) look like help me think about how to make them.
 
 If you have multiple graphs, the conclusion "slide" could be multiple slides.  But remember that this isn't a PhD thesis, so you really don't need more than 1 or maybe 2 figures.
 
@@ -33,7 +34,7 @@ If you have multiple graphs, the conclusion "slide" could be multiple slides.  B
 **Your project must include**:
 *	Background about why this question is important.
 *	A conclusion drawn from data or simulations.  In other words, it has to answer a question and you have decide what question that is.
-*	A test suite of at least three tests that your code passes.  These can be simple tests that your code is working correctly.  Your code must pass them.  One of the tests must involve you feeding some data into your code, data in which you know what the answer should be. Do science on your code! 
+*	A test suite of at least three tests that your code passes.  These can be simple tests that your code is working correctly.  Your code must pass them.  One of the tests must involve you feeding some data into your code, data in which you know what the answer should be. Do science on your code!  (You could actually create a CSV file that's sort of small fake version of your real file, and show that your code behaves as expected.) 
 *	Documentation. (Your code must be commented).
 
 **Your project must incorporate 5 of the following 10 elements:**
@@ -44,8 +45,8 @@ If you have multiple graphs, the conclusion "slide" could be multiple slides.  B
 *	Assessing the validity of your model using residuals or other techniques such a chi-squared 
 *	Using only a subset of the data that meet some criterion
 *	Calculating statistics from your data and drawing conclusions
-*	Evaluating the time different parts of your program take
-*	Dictionaries or panda data structures
+*	Aggregating Data (e.g. combining all the different entries for cities in Pennsylvania into one combined entry for Pennsylvania)
+*	Dictionaries
 *	Numerical integration
 
 **There are many public data sets.**  See here for a list: https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#6a2e0b72b54d
