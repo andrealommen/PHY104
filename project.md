@@ -40,20 +40,20 @@ If you have multiple graphs, the conclusion "slide" could be multiple slides.  B
 **Your project must incorporate 5 of the following 10 elements:**
 *	Reading in a public data set 
 *	Simulating a data set
-*	Plotting one parameter vs another and using the plot for analysis of some kind
-*	Modeling the data (e.g. fitting a curve) 
+*	Plotting one parameter vs another 
+*	Modeling the data (e.g. fitting a curve), or doing some numerical analysis such as a correlation analysis 
 *	Assessing the validity of your model using residuals or other techniques such a chi-squared 
-*	Using only a subset of the data that meet some criterion
-*	Calculating statistics from your data and drawing conclusions
+*	Using only a subset of the data that meet some criterion (e.g. just some rows from your table using the "loc" method or np.where)
 *	Aggregating Data (e.g. combining all the different entries for cities in Pennsylvania into one combined entry for Pennsylvania)
 *	Dictionaries
 *	Numerical integration
+* 	Use object-oriented programming to accomplish any of the above (e.g. a class and a method)
 
 **There are many public data sets.**  See here for a list: https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#6a2e0b72b54d
 
 ### How is this graded?
 This is the 5th lab so it's part of your lab grade. 
-It’s graded on the 9 required elements above (3 points for each), plus I add one criteria that’s just basic awesomeness (did you get into it?) and creativity (did you use your skills to make it cool?) (combined for 3 more points) for a total of 30 points.
+It’s graded on the 9 (4 + 5) required elements above (3 points for each), plus I add one criteria that’s just basic awesomeness (did you get into it?) and creativity (did you use your skills to make it cool?) (combined for 3 more points) for a total of 30 points.
 
 ### 3-slide powerpoint presentations
 *	The main product of the project is the 3-slide powerpoint that you’ll show to the 
