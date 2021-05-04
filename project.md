@@ -13,12 +13,12 @@ Your project proposal will just be a paragraph (a few sentences) saying:
 2) What question you'll be answering using them.
 
 ### The Project 
-(presented the last week of class, rough draft of slides due two
-weeks beforehand - see grid):
+(presented the last week of class, rough draft of slides due about a week 
+week beforehand - see grid):
 
 **The TALK**
 
-If it's a talk it'll be 3 slides long:
+It'll be 3 slides long:
 * Slide 1: Introduction to your data set (where you got it, why you're interested in it, what question you hope to answer, why you think other people would be interested in this question.)
 * Slide 2: An interesting challenge your data presented. You might show a little (a very little!) bit of code here, but the main point is to describe the challenge, and the overview of how you solved it.
 * Slide 3: Conclusion and graph or graphs.
@@ -75,7 +75,7 @@ hear all 9 projects.)
 You have an assignment to do while your classmates are presenting:
 [Template for Q and A](https://docs.google.com/document/d/13B8gXVWKjKFlbleTWplkWegASVQh81IayDm8HNuUzMk/edit?usp=sharing)
 
-At the end of the week you'll submit three things via haverford.box:
+At the end of the week you'll submit three things via Moodle:
 * your responses to the template above to a pdf file 
 * your presentation slides (in pptx or pdf)
 * your Jupyter notebook (file -> download as -> an ipynb file)
