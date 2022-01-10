@@ -7,7 +7,7 @@ layout: page
 author: Andrea Lommen
 ---
 
-# Spring 2021
+# Spring 2022
 
 
 Topics in Introductory Programming (104) is designed to give a general
