@@ -15,7 +15,6 @@ Watch this [video.](https://www.youtube.com/watch?v=yQq1-_ujXrM)
 # Lab instructor
 
 **Suzanne Lindell** 
-9:30-10:30am ET Tuesday
 Check on Moodle for the meeting link (under the Zoom links)
 
 # Course instructor
