@@ -25,7 +25,7 @@ It'll be 3 slides long:
 
 Not a lot of words on slides, please. 
 
-For your draft due on Tuesday 4 May (a couple weeks before the end of the semester), you could make a draft of a final plot, or you could describe what you think the plot will look like, or even sketch it on a piece of paper, and put a photograph of it into your slide.
+For your draft due on Tuesday 12 April (a couple weeks before the end of the semester), you could make a draft of a final plot, or you could describe what you think the plot will look like, or even sketch it on a piece of paper, and put a photograph of it into your slide.
 I find that even just making a sketch of what I think the plot (or plots) look like help me think about how to make them.
 
 If you have multiple graphs, the conclusion "slide" could be multiple slides.  But remember that this isn't a PhD thesis, so you really don't need more than 1 or maybe 2 figures.
@@ -42,7 +42,7 @@ If you have multiple graphs, the conclusion "slide" could be multiple slides.  B
 *	Simulating a data set
 *	Plotting one parameter vs another 
 *	Modeling the data (e.g. fitting a curve), or doing some numerical analysis such as a correlation analysis 
-*	Assessing the validity of your model using residuals or other techniques such a chi-squared 
+*	Assessing the validity of your model using residuals 
 *	Using only a subset of the data that meet some criterion (e.g. just some rows from your table using the "loc" method or np.where)
 *	Aggregating Data (e.g. combining all the different entries for cities in Pennsylvania into one combined entry for Pennsylvania)
 *	Dictionaries
@@ -62,15 +62,13 @@ that shows you completed the items above.
 
 ## THE FINAL WEEK
 
-Please sign-up for a presentation day [here:](https://docs.google.com/spreadsheets/d/1X5jyvYeOLBLCTU8l9AzsxTGIirumbHbndwGk5iKjnfA/edit?usp=sharing).
+Please sign-up for a presentation day [here:](
+https://docs.google.com/spreadsheets/d/1fHfmumgC68f5EPQWtYbUrSy2-SnyMsVxRIW-YTa7VNw/edit#gid=0).
 
-During the final week of class you will do two things:
+During the final two weeks of class you will do two things:
 1) present your work (about 5 minutes)
 2) listen to your class mates present their work and ask them questions (10 minutes of questions allotted for
 each project).
-
-(In case you're doing the math - you'll be in groups of 9 discussing each other's projects.  It'll take both days
-hear all 9 projects.)
 
 You have an assignment to do while your classmates are presenting:
 [Template for Q and A](https://docs.google.com/document/d/13B8gXVWKjKFlbleTWplkWegASVQh81IayDm8HNuUzMk/edit?usp=sharing)
