@@ -80,7 +80,9 @@ At the end of the week you'll submit three things via Moodle:
 
 The Jupyter notebook should contain the following labels so that I can
 easily see you've satisfied the criteria of the project
-* Test suite
+* Test1
+* Test2
+* Test2
 * Element1
 * Element2
 * Element3
