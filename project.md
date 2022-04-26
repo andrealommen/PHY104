@@ -73,10 +73,11 @@ each project).
 You have an assignment to do while your classmates are presenting:
 [Template for Q and A](https://docs.google.com/document/d/13B8gXVWKjKFlbleTWplkWegASVQh81IayDm8HNuUzMk/edit?usp=sharing)
 
-At the end of the week you'll submit three things via Moodle:
+At the end of the week you'll submit four things via Moodle:
 * your responses to the template above to a pdf file 
 * your presentation slides (in pptx or pdf)
 * your Jupyter notebook (file -> download as -> an ipynb file)
+* your data (usually as a CSV file, but it may be in a different format)
 
 The Jupyter notebook should contain the following labels so that I can
 easily see you've satisfied the criteria of the project
