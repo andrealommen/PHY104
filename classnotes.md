@@ -5,8 +5,7 @@ title: Class_Notes
 permalink: /notes/
 ---
 
-I'll put the Jupyter notebook we'll be working on in class [here:]
-(https://haverford.box.com/s/dbv4p4j7s9fc3mosjw13p8tz2q6g83h4)
+I'll put the Jupyter notebook we'll be working on in class [here:](https://haverford.box.com/s/dbv4p4j7s9fc3mosjw13p8tz2q6g83h4)
 
 After class I'll put another copy that's filled in with whatever we did in class. It'll have the same name but with "POST" in the title.
 
