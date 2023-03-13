@@ -91,15 +91,3 @@ easily see you've satisfied the criteria of the project
 * Element5
 
 
-
-
-
-## ROBOT PROJECT
-If you elect to do a robot project instead of a data analysis project, here is how it will be graded:
-
-To get a 10/10 on the project you must:
-* Articulate a set of specific requirements that you want your robot to be able to perform.  There must be three of them that do not overlap with the requirements that the rest of the class had (i.e. one of the requirements cannot be that the robot can navigate autonomously around furniture using its whiskers).  The requirements must be specific enough that you can say objectively whether or not the robot was able to accomplish them. (e.g. “the robot can grab stuff” is not specific, but “the robot is able to lift an object and travel with it for one meter” is specific.”)
-* For each of the requirements, describe the challenges in meeting (or not meeting) that requirement (one paragraph each)
-* Describe changes you would make to your robot if you had more time.  Knowing what you know now, are there things you could do to make meeting your requirements easier? 
-
-Also note that I have a small budget for purchasing additional equipment for your robot, if that would help you do your project. 
