@@ -61,7 +61,7 @@ year, price\
 2001, 1.10\
 2002, 1.20\
 2003, 1.30\
-2004, 1.40\
+2004, 1.40
 
 It's simple, but it's a nice check of your code.  You should be able to run your code on that file just like you did on your real data, and it should show a correlation coeffient of 1.0. 
 
