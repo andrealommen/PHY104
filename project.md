@@ -50,6 +50,7 @@ If you have multiple graphs, the conclusion "slide" could be multiple slides.  B
 * 	Use object-oriented programming to accomplish any of the above (e.g. a class and a method)
 
 **Test Suite**
+
 These can be simple tests that your code is working correctly.  Your code must pass them.  One of the tests must involve you feeding some data into your code, data in which you know what the answer should be. 
 
 The options I suggest often:
