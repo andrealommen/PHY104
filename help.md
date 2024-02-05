@@ -10,7 +10,7 @@ Watch this [video.](https://www.youtube.com/watch?v=yQq1-_ujXrM)
 
 # Student hours
 
-[**Student TA hours ** google calendar](https://calendar.google.com/calendar/u/0/embed?src=c_8f9cc886aba857795544aa8e10ba3bf0b450edfd7e517fe86e0e8edf745c4be0@group.calendar.google.com&ctz=America/New_York)
+https://calendar.google.com/calendar/u/1/embed?src=c_7f196c6f130026dd99e1dc8edab08442664716eaf15136658224ba78ca2b5d7c@group.calendar.google.com&ctz=America/New_York&csspa=1
 
 # Lab instructor
 
