@@ -20,3 +20,5 @@ The TA/instructor will name a distance, and your robot should go that distance.
 ###By Sunday Feburary 23 <br>
 Write a function that makes your robot turn any number of degrees you specify. The number of degrees should be the argument of the function.  If the number is positive it should turn to the right.  If negative it should turn to the left. The TA/instructor will give you a number of degrees, and your robot should turn that number of degrees.
 
+###Nothing due by Sunday March 2 <br>
+Since homework2 is due this week, we wanted to give you some time in lab to ask questions about it during your lab period.
