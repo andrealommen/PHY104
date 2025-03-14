@@ -25,3 +25,24 @@ Since homework2 is due this week, we wanted to give you some time in lab to ask 
 
 ### By Friday March 7 <br>
 Combine your two functions to get your robot to follow one of the paths laid out in masking tape by the TAs. 
+
+### Nothing due by Friday Mar 14, spring break <br>
+
+### By Friday Mar 21 <br>
+Implement Infrared Navigation
+
+The tutorials are here
+\url{https://learn.parallax.com/courses/infrared-light-navigation-for-the-cyberbot/}
+but you don't need all of them.  Here are the ones you need:
+
+•	Infrared Light Signals (just skim for background)
+•	Build the IR circuits
+•	Test the IR Object Detectors
+•	(skip several things here)
+•	Faster IR Navigation (You might want to play around with where the IR sensors are aimed.  I found them pointed away from each other slightly and down slightly to be helpful. ). Instead of using their script. Use mine: 
+
+•	To get checked off on this lab you have to 
+o	explain to the TA/Suzanne how the code works. 
+o	Make a list of situations in which the robot gets stuck. (We’ll see if we can fix one or more of them next week) 
+
+
