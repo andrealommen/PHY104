@@ -46,7 +46,7 @@ To get checked off on this lab you have to
 *	Make a list of situations in which the robot gets stuck. (We’ll see if we can fix one or more of them next week) 
 
 ### By Sunday Mar 30 <br>
-Week of March 24 Adding contingencies. Your robot responds to one set of sensors now (infrared) which is very cool.  In order to make it more robust and reliable (i.e. not get stuck) add code to get your robot out of sticky situations and demonstrate to your TAs that it works at least part of the time. (From my humble experience over break, you have to be realistic here.  You're not going to be able  to write code that will let the robot roam forever the floor of your dorm without stopping.   
+Adding contingencies. Your robot responds to one set of sensors now (infrared) which is very cool.  In order to make it more robust and reliable (i.e. not get stuck) add code to get your robot out of sticky situations and demonstrate to your TAs that it works at least part of the time. (From my humble experience over break, you have to be realistic here.  You're not going to be able  to write code that will let the robot roam forever the floor of your dorm without stopping.   
 Here are some ideas.  You can do one of these or invent something else.  Your choice.  In all cases the challenge will be combining your existing infrared code with if’s and else’s (or try's and except's) etc such that your new code improves the situation.
 *	I wrote some code to detect whether a wheel has stopped [here](./stall_check.py). This didn’t work so well because when it gets stuck the wheels don’t stop (they often spin).  It did work part of the time.
 *	Add the [whiskers](https://learn.parallax.com/courses/touch-navigation-for-the-cyberbot/) so that if actually bumps into something it’ll back up. Don't forget that you have to combine the infrared sensor and the whiskers in one program to make your robot smarter.   
@@ -56,7 +56,6 @@ Here are some ideas.  You can do one of these or invent something else.  Your ch
 o	If it gets into a corner it can get caught going back and forward forever.  Make it back out of the corner in that situation. I'm thinking of a clever "if" loop that somehow keeps track of whether it’s repeating itself.  I didn’t actually try this one.
 
 To get checked off you have to explain your code to Suzanne or a TA, and demonstrate that without your code, the robot gets stuck in a particular situation, but with your code it succeeds!
-
 
 ### By Sunday April 14  Add the capability to avoid drop-offs (so you can put your robot on a table).
 •	Drop-off Detector (this is a parallax tutorial)
