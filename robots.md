@@ -31,18 +31,19 @@ Combine your two functions to get your robot to follow one of the paths laid out
 ### By Friday Mar 21 <br>
 Implement Infrared Navigation
 
-The tutorials are here
-\url{https://learn.parallax.com/courses/infrared-light-navigation-for-the-cyberbot/}
-but you don't need all of them.  Here are the ones you need:
+[Infrared Navigation Tutorials here](https://learn.parallax.com/courses/infrared-light-navigation-for-the-cyberbot/)
 
-•	Infrared Light Signals (just skim for background)
-•	Build the IR circuits
-•	Test the IR Object Detectors
-•	(skip several things here)
-•	Faster IR Navigation (You might want to play around with where the IR sensors are aimed.  I found them pointed away from each other slightly and down slightly to be helpful. ). Instead of using their script. Use mine: 
+You don't need all of them.  Here are the ones you need:
 
-•	To get checked off on this lab you have to 
-o	explain to the TA/Suzanne how the code works. 
-o	Make a list of situations in which the robot gets stuck. (We’ll see if we can fix one or more of them next week) 
+*	Infrared Light Signals (just skim for background)
+*	Build the IR circuits
+*	Test the IR Object Detectors
+*	(skip several things here)
+*	Faster IR Navigation (You might want to play around with where the IR sensors are aimed.  I found them pointed away from each other slightly and down slightly to be helpful. ). Instead of using their script. Use mine[ir_navigation.py](./ir_navigation.py) 
+
+
+*	To get checked off on this lab you have to 
+*	explain to the TA/Suzanne how the code works. 
+*	Make a list of situations in which the robot gets stuck. (We’ll see if we can fix one or more of them next week) 
 
 
