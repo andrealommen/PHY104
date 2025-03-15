@@ -58,11 +58,13 @@ o	If it gets into a corner it can get caught going back and forward forever.  Ma
 To get checked off you have to explain your code to Suzanne or a TA, and demonstrate that without your code, the robot gets stuck in a particular situation, but with your code it succeeds!
 
 ### By Sunday April 14  Add the capability to avoid drop-offs (so you can put your robot on a table).
-•	Drop-off Detector (this is a parallax tutorial)
-•	Avoid Drop-offs (this is a parallax tutorial)
+I updated the infrared-light-detection code for you to reflect the new servos you installed, but you'll have to update the code yourself for this project. You'll notice the sugggested code says things like ``bot(18).servo_speed(75)'' rather than ``drive.speed(37,37)". [This page tells you how to do that.](https://learn.parallax.com/courses/upgrade-your-cyberbot-with-feedback-360-servos/lessons/how-to-update-scripts-for-feedback-360-servos/)
+*	[Drop-off Detector](https://learn.parallax.com/courses/infrared-light-navigation-for-the-cyberbot/lessons/drop-off-detector/)
+*	[Simulate a drop-off](https://learn.parallax.com/courses/infrared-light-navigation-for-the-cyberbot/lessons/simulate-a-drop-off-with-poster-board/)
+*	[Avoid Drop-offs](https://learn.parallax.com/courses/infrared-light-navigation-for-the-cyberbot/lessons/avoid-drop-offs/)	
 
 ### By Sunday April 21  Using another board as a controller
 
-
-### By Sunday April 28 Make-up anything you didn't get checked off yet.
+* Just watch the little video here to see what we're trying to do. [tilt control](https://learn.parallax.com/courses/cybersecurity-radio-tilt-control_makecode/)
+* Some instructions will appear here...hopefully in time for you to follow them.
 
