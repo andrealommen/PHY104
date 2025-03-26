@@ -57,13 +57,12 @@ o	If it gets into a corner it can get caught going back and forward forever.  Ma
 
 To get checked off you have to explain your code to Suzanne or a TA, and demonstrate that without your code, the robot gets stuck in a particular situation, but with your code it succeeds!
 
-### No more robot assignments until mid-April, because I want you to have a chance to work on your project and Homework4
+## No more robot assignments until mid-April, because I want you to have a chance to work on your project and Homework4
 
 ### Last Robot assignment: Due April 28 (but please start by the 14th)
 [Roaming robot with ultrasonic ping](https://learn.parallax.com/courses/cyberbot-roaming-with-the-ping/)
 
-### Other optional robot projects in case you want to do something besides
-the cyberbot roaming with the ping  
+### Other optional robot projects in case you want to do something besides the cyberbot roaming with the ping  
 
 ### Add the capability to avoid drop-offs 
 (so you can put your robot on a table).
