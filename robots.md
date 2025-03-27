@@ -45,7 +45,7 @@ To get checked off on this lab you have to
 *	Explain to the TA/Suzanne how the code works. 
 *	Make a list of situations in which the robot gets stuck. (We’ll see if we can fix one or more of them next week) 
 
-### By Sunday Mar 30 <br>
+### By Friday April 4 <br>
 Adding contingencies. Your robot responds to one set of sensors now (infrared) which is very cool.  In order to make it more robust and reliable (i.e. not get stuck) add code to get your robot out of sticky situations and demonstrate to your TAs that it works at least part of the time. (From my humble experience over break, you have to be realistic here.  You're not going to be able  to write code that will let the robot roam forever the floor of your dorm without stopping.   
 Here are some ideas.  You can do one of these or invent something else.  Your choice.  In all cases the challenge will be combining your existing infrared code with if’s and else’s (or try's and except's) etc such that your new code improves the situation.
 *	I wrote some code to detect whether a wheel has stopped [here](./stall_check.py). This didn’t work so well because when it gets stuck the wheels don’t stop (they often spin).  It did work part of the time.
