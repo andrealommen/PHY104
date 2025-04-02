@@ -20,7 +20,7 @@ Check on Moodle for the meeting link (under the Zoom links)
 
 # Course instructor
 
-[**Andrea Lommen** google calendar link to sign up for a slot] (https://calendar.google.com/calendar/u/0/appointments/AcZssZ0ac8HMJNyfNN2iu61zp-tzc_fUU-Wb8KtKFmI=)
+[**Andrea Lommen** google calendar link to sign up for a slot](https://calendar.google.com/calendar/u/0/appointments/AcZssZ0ac8HMJNyfNN2iu61zp-tzc_fUU-Wb8KtKFmI=)
 
 
 
