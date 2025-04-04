@@ -59,7 +59,7 @@ To get checked off you have to explain your code to Suzanne or a TA, and demonst
 
 ## No more robot assignments until mid-April, because I want you to have a chance to work on your project and Homework4
 
-### Last Robot assignment: Due April 28 (but please start by the 14th)
+### Last Robot assignment: Due May 2 (but please start it no later than your lab on April 23 or 24)
 [Roaming robot with ultrasonic ping](https://learn.parallax.com/courses/cyberbot-roaming-with-the-ping/)
 
 ### Other optional robot projects in case you want to do something besides the cyberbot roaming with the ping  
