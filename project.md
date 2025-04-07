@@ -48,6 +48,7 @@ If you have multiple graphs, the conclusion "slide" could be multiple slides.  B
 *	Dictionaries
 *	Numerical integration
 * 	Use object-oriented programming to accomplish any of the above (e.g. a class and a method)
+*	Presenting the data with either an animation or a slider (like we did in class on Apr 7, Class #20)
 
 **Test Suite**
 
